@@ -3,4 +3,4 @@
 Descrição do Projeto: Clone Yu Gi Ho, cartão que contém o nível do poder do personagem a descrição e o nome, podendo assim passar para o proximo cartão.
 Tecnologias utilizadas : Esse projeto foi feito com as linguagens Html, Css e JavaScript.
 
-Acesso ao Projeto:  
+Acesso ao Projeto: https://sthefanymerces.github.io/Clone-Yu-Gi-Ho/
